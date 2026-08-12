@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-35qdov.lapinandwolf.co.nz/sitemap.xml
